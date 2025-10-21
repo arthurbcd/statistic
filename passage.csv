@@ -1,0 +1,1001 @@
+LEAD;DEAL;PRODUIT;ACTIVITE;REGION;PMR;RN;CA;MARGE;PART;CONVERSION;REALISE
+13;0;COMSI;Biens de consommation;France;53;0.81;5.85;60;78;A;0
+64;0;COMSI;Biens de consommation;France;53;0.92;5.85;62;72;A;0
+105;0;COMSI;Biens de consommation;France;53;1.03;12.18;66;65;A;0
+230;0;COMSI;Biens de consommation;France;53;1.24;7.55;49;63;A;0
+287;1;COMSI;Biens de consommation;France;53;1.29;8.3;43;70;A;24983
+318;0;COMSI;Biens de consommation;France;53;1.29;9.16;45;62;A;0
+367;1;COMSI;Biens de consommation;France;53;1.21;7.46;33;54;A;13293.72
+469;1;COMSI;Biens de consommation;France;53;0.72;10.09;31;57;A;17829.03
+553;1;COMSI;Biens de consommation;France;53;1.08;9.28;46;73;A;31162.24
+577;0;COMSI;Biens de consommation;France;53;2.31;8.86;58;40;A;0
+588;1;COMSI;Biens de consommation;France;53;0.53;11.02;58;62;A;39627.92
+618;0;COMSI;Biens de consommation;France;53;1.34;7.04;50;66;A;0
+663;0;COMSI;Biens de consommation;France;53;1.63;8.2;48;100;A;0
+671;0;COMSI;Biens de consommation;France;53;1.05;6.7;41;40;A;0
+831;1;COMSI;Biens de consommation;France;53;1;10.28;47;77;A;37203.32
+856;0;COMSI;Biens de consommation;France;53;1.17;4.31;49;60;A;0
+990;1;COMSI;Biens de consommation;France;53;1.46;6.74;28;67;A;12644.24
+765;0;COMSI;Recherche clinique;France;70;1.31;9.24;58;100;A;0
+28;0;COMSI;Energie;France;34;1.47;8.36;52;59;A;0
+168;1;COMSI;Energie;France;34;0.06;8.48;40;69;A;23404.8
+279;0;COMSI;Energie;France;34;1.66;9.64;45;50;A;0
+571;0;COMSI;Energie;France;34;1.3;13.26;62;69;A;0
+711;0;COMSI;Energie;France;34;1.51;7.53;59;59;A;0
+761;0;COMSI;Energie;France;34;1.15;5.07;70;55;A;0
+866;1;COMSI;Energie;France;34;-0.56;7.68;38;77;A;22471.68
+113;1;COMSI;Infrastructure;France;37;0.38;8.1;47;64;A;24364.8
+167;1;COMSI;Infrastructure;France;37;0.12;9.93;32;55;A;17476.8
+500;1;COMSI;Infrastructure;France;37;1.56;6.04;35;71;A;15009.4
+850;1;COMSI;Infrastructure;France;37;0.58;9.83;48;57;A;26894.88
+52;0;COMSI;MarchÃ©s financiers;AmÃ©rique;28;2.46;8.55;44;76;A;0
+203;0;COMSI;MarchÃ©s financiers;AmÃ©rique;28;1.59;8.31;77;85;A;0
+70;1;COMSI;MobilitÃ©;Italie;29;1.43;9.25;34;56;A;17612
+775;0;COMSI;MobilitÃ©;Italie;29;1.64;7.35;49;56;A;0
+499;1;COMSI;Secteur public autre;Japon;33;0.5;6.16;46;40;A;11334.4
+748;1;COMSI;Secteur public autre;Japon;33;0.65;12.34;54;53;A;35317.08
+107;0;COMSI;SÃ©curitÃ©;Inde;44;1.39;6.29;61;54;A;0
+114;0;COMSI;SÃ©curitÃ©;AmÃ©rique;68;1.17;7.16;50;45;A;0
+155;0;COMSI;SÃ©curitÃ©;Inde;44;1.22;8;50;62;A;0
+199;0;COMSI;SÃ©curitÃ©;Inde;44;1.17;9.1;70;56;A;0
+278;0;COMSI;SÃ©curitÃ©;Inde;44;1.36;8.24;55;54;A;0
+328;1;COMSI;SÃ©curitÃ©;Inde;44;1.36;6.69;35;67;A;15688.05
+441;0;COMSI;SÃ©curitÃ©;AmÃ©rique;68;1.39;6.7;49;69;A;0
+446;0;COMSI;SÃ©curitÃ©;Inde;44;1.42;10.12;68;51;A;0
+455;1;COMSI;SÃ©curitÃ©;Inde;44;0.86;5.7;51;61;A;17732.7
+615;1;COMSI;SÃ©curitÃ©;Inde;44;0.46;14.23;54;55;A;42263.1
+643;1;COMSI;SÃ©curitÃ©;Inde;44;0.85;6.8;54;55;A;20196
+766;1;COMSI;SÃ©curitÃ©;Inde;44;0.66;9.18;39;58;A;20765.16
+784;0;COMSI;SÃ©curitÃ©;Inde;44;1.26;8.37;65;63;A;0
+837;0;COMSI;SÃ©curitÃ©;Inde;44;1.33;6.9;60;51;A;0
+882;1;COMSI;SÃ©curitÃ©;Inde;44;0.98;10.68;50;67;A;35778
+904;0;COMSI;SÃ©curitÃ©;Inde;44;0.61;11.16;69;39;A;0
+946;1;COMSI;SÃ©curitÃ©;Inde;44;1.06;10.47;46;59;A;28415.58
+982;1;COMSI;SÃ©curitÃ©;Inde;44;0.92;3.75;48;59;A;10620
+995;0;COMSI;SÃ©curitÃ©;Inde;44;1.03;6.61;70;60;A;0
+777;1;FINSI;Assurance;France;31;0.38;9.16;57;63;A;32893.56
+30;0;FINSI;Biens de consommation;France;54;1.25;5.5;56;55;A;0
+72;0;FINSI;Biens de consommation;France;54;1.52;7.38;46;100;A;0
+201;0;FINSI;Biens de consommation;France;54;1.9;10.83;46;55;A;0
+340;0;FINSI;Biens de consommation;France;54;0.26;11.3;71;53;A;0
+397;0;FINSI;Biens de consommation;France;54;1.61;8.34;39;66;A;0
+417;0;FINSI;Biens de consommation;France;54;1.02;7.96;46;43;A;0
+531;1;FINSI;Biens de consommation;France;54;0.11;7.7;59;61;A;27712.3
+580;1;FINSI;Biens de consommation;France;54;0.76;8.05;31;73;A;18217.15
+629;0;FINSI;Biens de consommation;France;54;1.7;9.44;67;56;A;0
+703;0;FINSI;Biens de consommation;France;54;0.72;8.03;64;59;A;0
+707;0;FINSI;Biens de consommation;France;54;0.91;10.74;58;57;A;0
+916;0;FINSI;Biens de consommation;France;54;1.74;8.49;54;55;A;0
+981;0;FINSI;Biens de consommation;France;54;0.84;7.8;55;63;A;0
+212;0;FINSI;Infrastructure;France;62;0.8;6.2;63;69;A;0
+250;1;FINSI;Infrastructure;France;62;0.31;5.22;61;51;A;16239.42
+359;0;FINSI;Infrastructure;France;62;1.25;8.71;55;57;A;0
+508;0;FINSI;Infrastructure;France;62;0.73;5.81;57;67;A;0
+634;0;FINSI;Infrastructure;France;62;2.11;7.96;37;70;A;0
+820;0;FINSI;Infrastructure;France;62;0.4;4.76;70;61;A;0
+945;0;FINSI;Infrastructure;France;62;1.27;5.38;48;55;A;0
+40;0;FINSI;MarchÃ©s financiers;France;60;1;6.04;59;44;A;0
+67;0;FINSI;MarchÃ©s financiers;Europe autres pays;57;1.67;10.18;58;57;A;0
+153;1;FINSI;MarchÃ©s financiers;France;60;0.36;7.47;55;52;A;21364.2
+174;0;FINSI;MarchÃ©s financiers;France;60;0.83;7.52;58;64;A;0
+182;0;FINSI;MarchÃ©s financiers;France;60;1.84;6.54;52;53;A;0
+362;0;FINSI;MarchÃ©s financiers;Europe autres pays;57;1.34;7.81;74;52;A;0
+415;1;FINSI;MarchÃ©s financiers;Europe autres pays;57;0.78;5.15;47;56;A;13554.8
+459;0;FINSI;MarchÃ©s financiers;Europe autres pays;57;1.66;7.77;66;72;A;0
+511;0;FINSI;MarchÃ©s financiers;France;60;0.92;10.97;61;58;A;0
+515;0;FINSI;MarchÃ©s financiers;France;60;1.2;5.95;44;75;A;0
+608;0;FINSI;MarchÃ©s financiers;Europe autres pays;57;1.13;10.5;43;47;A;0
+647;1;FINSI;MarchÃ©s financiers;Europe autres pays;57;0.33;8.28;49;55;A;22314.6
+734;0;FINSI;MarchÃ©s financiers;Europe autres pays;57;1.44;8.3;57;57;A;0
+796;0;FINSI;MarchÃ©s financiers;Europe autres pays;57;0.79;6.16;59;58;A;0
+855;1;FINSI;MarchÃ©s financiers;Europe autres pays;57;0.47;4.55;44;60;A;12012
+888;1;FINSI;MarchÃ©s financiers;Europe autres pays;57;0.14;6.91;44;50;A;15202
+825;0;FORSI;Assurance;France;74;1.22;8.3;50;66;A;0
+147;1;FORSI;Banque;Afrique;45;0.87;7.02;45;61;A;19269.9
+156;1;FORSI;Banque;Afrique;45;0.93;7.18;52;53;A;19788.08
+396;1;FORSI;Banque;Afrique;45;0.99;9.56;42;50;A;20076
+414;0;FORSI;Banque;Afrique;45;1.43;6.99;62;63;A;0
+585;0;FORSI;Banque;Afrique;45;1.75;7.38;60;100;A;0
+593;0;FORSI;Banque;Afrique;45;1.09;10.03;64;35;A;0
+609;1;FORSI;Banque;Afrique;45;0.25;6.11;69;67;A;28246.53
+672;1;FORSI;Banque;Afrique;45;0.04;9.72;27;53;A;13909.32
+724;0;FORSI;Banque;Afrique;45;0.91;8.6;66;60;A;0
+876;1;FORSI;Banque;Afrique;45;0.81;6.75;60;66;A;26730
+694;0;FORSI;Recherche clinique;France;78;1.2;6.29;41;60;A;0
+931;0;FORSI;Recherche clinique;France;78;1.65;8.14;50;43;A;0
+152;0;FORSI;DÃ©fense;France;51;2.11;11.31;54;61;A;0
+160;0;FORSI;DÃ©fense;France;51;0.71;10.58;71;64;A;0
+246;0;FORSI;DÃ©fense;France;51;2.11;10.32;44;60;A;0
+276;1;FORSI;DÃ©fense;France;51;0.7;10.96;60;60;A;39456
+327;0;FORSI;DÃ©fense;France;51;2.11;10.11;56;64;A;0
+431;1;FORSI;DÃ©fense;France;51;0.92;5.68;38;47;A;10144.48
+834;1;FORSI;DÃ©fense;France;51;0.85;6.27;49;59;A;18126.57
+895;0;FORSI;DÃ©fense;France;51;1.02;12.74;67;58;A;0
+900;1;FORSI;DÃ©fense;France;51;0.78;8.52;48;71;A;29036.16
+923;1;FORSI;DÃ©fense;France;51;0.8;10.45;41;79;A;33847.55
+929;1;FORSI;DÃ©fense;France;51;0.43;10.04;37;74;A;27489.52
+933;1;FORSI;DÃ©fense;France;51;1.06;6.76;43;64;A;18603.52
+961;0;FORSI;DÃ©fense;France;51;2.11;10.58;56;67;A;0
+971;1;FORSI;DÃ©fense;France;51;-0.05;8.29;42;63;A;21935.34
+979;1;FORSI;DÃ©fense;France;51;0.31;10.98;44;58;A;28020.96
+137;1;FORSI;Energie;France;42;-0.33;9.81;57;64;A;35786.88
+184;1;FORSI;Energie;France;42;1.22;6.34;45;54;A;15406.2
+190;1;FORSI;Energie;France;42;1.26;11.14;43;54;A;25867.08
+229;0;FORSI;Energie;France;42;1.41;5.03;51;48;A;0
+559;0;FORSI;Energie;France;42;1.33;5.46;45;51;A;0
+678;1;FORSI;Energie;France;42;0.8;6.7;47;47;A;14800.3
+758;0;FORSI;Energie;France;42;1.96;6.61;54;47;A;0
+791;1;FORSI;Energie;France;42;0.29;6.77;45;51;A;15537.15
+998;0;FORSI;Energie;France;42;1.75;8.18;58;68;A;0
+136;1;FORSI;MarchÃ©s financiers;France;40;0.39;7.6;52;58;A;22921.6
+183;1;FORSI;MarchÃ©s financiers;France;40;0.56;9.26;46;52;A;22149.92
+254;0;FORSI;MarchÃ©s financiers;France;40;1.71;8.25;51;49;A;0
+320;1;FORSI;MarchÃ©s financiers;France;40;-0.17;8.33;49;53;A;21633.01
+490;1;FORSI;MarchÃ©s financiers;France;40;-0.15;11.06;36;55;A;21898.8
+551;1;FORSI;MarchÃ©s financiers;France;40;0.89;8.99;57;53;A;27158.79
+594;1;FORSI;MarchÃ©s financiers;France;40;0.99;9.7;38;77;A;28382.2
+809;0;FORSI;MarchÃ©s financiers;France;40;1.59;6.65;57;60;A;0
+810;1;FORSI;MarchÃ©s financiers;France;40;0.27;6.06;59;47;A;16804.38
+884;1;FORSI;MarchÃ©s financiers;France;40;0.47;11.38;34;49;A;18959.08
+921;1;FORSI;MarchÃ©s financiers;France;40;0.69;5.51;50;55;A;15152.5
+800;1;GIPSI;Agriculture;Europe autres pays;26;1.05;9.67;36;61;A;21235.32
+2;1;GIPSI;AÃ©rien;France;56;0.79;11.42;46;50;A;26266
+197;1;GIPSI;AÃ©rien;France;56;0.52;10.62;53;57;A;32083.02
+198;0;GIPSI;AÃ©rien;France;56;0.84;4.34;52;54;A;0
+221;1;GIPSI;AÃ©rien;France;56;0.59;11.75;48;49;A;27636
+386;1;GIPSI;AÃ©rien;France;56;0.92;10.5;41;75;A;32287.5
+416;0;GIPSI;AÃ©rien;France;56;1.11;6.62;66;41;A;0
+533;1;GIPSI;AÃ©rien;France;56;0.59;6.97;47;54;A;17689.86
+601;0;GIPSI;AÃ©rien;France;56;1.38;6.35;53;57;A;0
+721;1;GIPSI;AÃ©rien;France;56;0.96;7.64;50;72;A;27504
+723;0;GIPSI;AÃ©rien;France;56;0.7;10.01;56;53;A;0
+839;1;GIPSI;AÃ©rien;France;56;0.69;8.09;39;66;A;20823.66
+840;1;GIPSI;AÃ©rien;France;56;0.92;7.01;38;65;A;17314.7
+885;0;GIPSI;AÃ©rien;France;56;1.44;9.03;61;49;A;0
+4;1;GIPSI;Assurance;France;58;0.09;10.17;46;56;A;26197.92
+53;0;GIPSI;Assurance;France;58;0.73;8.86;61;55;A;0
+83;1;GIPSI;Assurance;France;58;0.85;7.5;36;51;A;13770
+170;1;GIPSI;Assurance;France;58;0.75;6.79;40;56;A;15209.6
+224;0;GIPSI;Assurance;France;58;1.27;10.15;51;61;A;0
+235;1;GIPSI;Assurance;France;58;0.54;5.66;55;47;A;14631.1
+306;0;GIPSI;Assurance;France;58;0.9;8.85;45;53;A;0
+361;1;GIPSI;Assurance;France;58;0.27;7.87;60;74;A;34942.8
+403;0;GIPSI;Assurance;France;58;0.72;9.65;52;52;A;0
+445;1;GIPSI;Assurance;France;58;0.42;8.67;54;68;A;31836.24
+600;0;GIPSI;Assurance;France;58;1.03;5.81;44;49;A;0
+616;1;GIPSI;Assurance;France;58;0.65;10.36;38;59;A;23227.12
+679;1;GIPSI;Assurance;France;58;0.03;8.51;59;64;A;32133.76
+977;0;GIPSI;Assurance;France;58;1.6;6.87;48;65;A;0
+14;0;GIPSI;Banque;France;61;0.79;7.68;58;45;A;0
+74;0;GIPSI;Banque;Afrique;52;1.45;8.19;53;67;A;0
+95;0;GIPSI;Banque;Allemagne;65;0.95;6.69;74;70;A;0
+104;0;GIPSI;Banque;Allemagne;65;1.64;5.78;38;72;A;0
+129;0;GIPSI;Banque;France;61;1.24;9.02;41;56;A;0
+139;1;GIPSI;Banque;Afrique;52;0.54;5.08;62;63;A;19842.48
+161;1;GIPSI;Banque;AmÃ©rique;43;0.68;4.73;55;63;A;16389.45
+194;1;GIPSI;Banque;AmÃ©rique;43;1.15;6.95;52;68;A;24575.2
+209;1;GIPSI;Banque;Allemagne;65;1.16;8.79;34;64;A;19127.04
+227;0;GIPSI;Banque;Afrique;52;1.16;8.73;51;35;A;0
+228;0;GIPSI;Banque;France;61;1.62;9.25;48;63;A;0
+251;1;GIPSI;Banque;Afrique;52;0.72;12.51;39;70;A;34152.3
+268;1;GIPSI;Banque;Afrique;52;0.39;6.22;48;53;A;15823.68
+275;0;GIPSI;Banque;Afrique;52;1.51;8.44;63;69;A;0
+289;0;GIPSI;Banque;Afrique;52;1.47;9.29;42;52;A;0
+312;1;GIPSI;Banque;Afrique;52;0.46;8.81;62;59;A;32226.98
+329;0;GIPSI;Banque;Afrique;52;1.04;8.48;63;46;A;0
+331;1;GIPSI;Banque;France;61;1.01;8.56;44;75;A;28248
+342;0;GIPSI;Banque;Allemagne;65;0.85;12.11;58;60;A;0
+343;0;GIPSI;Banque;France;61;1.39;9.55;58;58;A;0
+366;0;GIPSI;Banque;Afrique;52;1.2;8.65;65;51;A;0
+382;1;GIPSI;Banque;Afrique;52;0.55;10.11;62;78;A;48891.96
+385;1;GIPSI;Banque;AmÃ©rique;43;0.36;9.2;45;54;A;22356
+428;1;GIPSI;Banque;Afrique;52;1.18;8.82;33;39;A;11351.34
+429;0;GIPSI;Banque;Afrique;52;1.19;7.99;65;69;A;0
+430;1;GIPSI;Banque;Afrique;52;1.05;5.81;27;62;A;9725.94
+450;1;GIPSI;Banque;AmÃ©rique;43;0.66;9.66;43;61;A;25338.18
+516;1;GIPSI;Banque;Afrique;52;0.9;5.53;46;60;A;15262.8
+540;0;GIPSI;Banque;AmÃ©rique;43;1.81;9.98;43;66;A;0
+552;0;GIPSI;Banque;France;61;0.89;12.98;62;100;A;0
+560;1;GIPSI;Banque;AmÃ©rique;43;0.59;7.98;45;63;A;22623.3
+592;1;GIPSI;Banque;France;61;0.48;4.69;50;64;A;15008
+635;0;GIPSI;Banque;France;61;1.6;7.82;62;56;A;0
+653;0;GIPSI;Banque;France;61;1.01;10.21;54;37;A;0
+666;0;GIPSI;Banque;Afrique;52;1.26;5.67;53;56;A;0
+706;0;GIPSI;Banque;Allemagne;65;1.64;8.57;68;68;A;0
+719;1;GIPSI;Banque;AmÃ©rique;43;0.7;8.02;40;63;A;20210.4
+732;0;GIPSI;Banque;France;61;1.71;10.71;60;53;A;0
+768;0;GIPSI;Banque;AmÃ©rique;43;1.34;6.17;62;71;A;0
+795;1;GIPSI;Banque;Afrique;52;0.92;5.2;48;71;A;17721.6
+813;0;GIPSI;Banque;Afrique;52;1.38;9.15;43;63;A;0
+843;0;GIPSI;Banque;AmÃ©rique;43;1.31;4.98;45;47;A;0
+846;1;GIPSI;Banque;AmÃ©rique;43;0.58;9.8;59;65;A;37583
+887;1;GIPSI;Banque;Afrique;52;0.64;6.56;51;54;A;18066.24
+930;0;GIPSI;Banque;AmÃ©rique;43;1.2;5.98;53;62;A;0
+948;0;GIPSI;Banque;Allemagne;65;0.38;8.17;59;59;A;0
+972;1;GIPSI;Banque;Afrique;52;0.51;9;53;64;A;30528
+983;0;GIPSI;Banque;Allemagne;65;2.31;10.44;56;44;A;0
+25;1;GIPSI;DÃ©fense;Afrique;25;0.15;9.85;52;68;A;34829.6
+45;1;GIPSI;DÃ©fense;AmÃ©rique;50;1.21;5.69;41;58;A;13530.82
+94;0;GIPSI;DÃ©fense;Japon;63;0.53;11.7;54;52;A;0
+141;1;GIPSI;DÃ©fense;AmÃ©rique;50;0.77;4.38;32;65;A;9110.4
+195;1;GIPSI;DÃ©fense;AmÃ©rique;50;0.45;7.05;58;51;A;20853.9
+252;0;GIPSI;DÃ©fense;AmÃ©rique;50;1.08;9.53;62;56;A;0
+260;1;GIPSI;DÃ©fense;Japon;63;1.03;8.29;36;63;A;18801.72
+313;1;GIPSI;DÃ©fense;AmÃ©rique;50;1.69;6.89;27;70;A;13022.1
+408;1;GIPSI;DÃ©fense;AmÃ©rique;50;0.76;9.43;58;55;A;30081.7
+439;1;GIPSI;DÃ©fense;AmÃ©rique;50;0.32;6.83;58;63;A;24956.82
+504;0;GIPSI;DÃ©fense;Japon;63;1.34;6.53;43;68;A;0
+513;0;GIPSI;DÃ©fense;AmÃ©rique;50;0.92;7.75;60;48;A;0
+545;1;GIPSI;DÃ©fense;Afrique;25;0.54;7.89;69;72;A;39197.52
+547;0;GIPSI;DÃ©fense;AmÃ©rique;50;1.31;12.28;46;54;A;0
+582;1;GIPSI;DÃ©fense;Europe autres pays;30;0.14;6.43;54;54;A;18749.88
+604;0;GIPSI;DÃ©fense;AmÃ©rique;50;1.77;10;45;62;A;0
+639;1;GIPSI;DÃ©fense;Afrique;25;-0.1;7.28;54;45;A;17690.4
+650;1;GIPSI;DÃ©fense;Europe autres pays;30;0.23;7.3;44;67;A;21520.4
+710;1;GIPSI;DÃ©fense;AmÃ©rique;50;0.64;9.14;30;74;A;20290.8
+737;0;GIPSI;DÃ©fense;Japon;63;1.87;7.41;38;57;A;0
+752;1;GIPSI;DÃ©fense;Afrique;25;1.33;10.34;39;59;A;23792.34
+755;0;GIPSI;DÃ©fense;Japon;63;1.03;8.22;70;49;A;0
+787;1;GIPSI;DÃ©fense;Europe autres pays;30;1.14;6.27;62;72;A;27989.28
+804;0;GIPSI;DÃ©fense;AmÃ©rique;50;1.05;5.68;48;52;A;0
+833;1;GIPSI;DÃ©fense;AmÃ©rique;50;0.85;7.65;43;54;A;17763.3
+932;0;GIPSI;DÃ©fense;AmÃ©rique;50;1.29;7.39;52;54;A;0
+936;0;GIPSI;DÃ©fense;AmÃ©rique;50;1.22;9.3;61;66;A;0
+986;1;GIPSI;DÃ©fense;AmÃ©rique;50;0.43;7.67;51;53;A;20732.01
+125;0;GIPSI;Finance;France;55;1.01;3.77;53;59;A;0
+243;1;GIPSI;Finance;France;55;0;4.13;44;57;A;10358.04
+272;0;GIPSI;Finance;France;55;1.26;11.07;66;65;A;0
+321;1;GIPSI;Finance;France;55;0.83;5.49;46;68;A;17172.72
+348;0;GIPSI;Finance;France;55;1.89;5.69;59;59;A;0
+388;1;GIPSI;Finance;France;55;0.48;6.44;50;70;A;22540
+389;0;GIPSI;Finance;France;55;1.41;9.39;53;64;A;0
+422;1;GIPSI;Finance;France;55;1.16;10.91;44;73;A;35042.92
+438;0;GIPSI;Finance;France;55;1.48;7.59;53;55;A;0
+452;0;GIPSI;Finance;France;55;0.92;7.89;60;53;A;0
+749;1;GIPSI;Finance;France;55;0.91;3.91;40;100;A;15640
+785;1;GIPSI;Finance;France;55;0.37;6.78;45;70;A;21357
+891;1;GIPSI;Finance;France;55;0.71;6.74;54;60;A;21837.6
+17;0;GIPSI;MarchÃ©s financiers;France;48;1.07;9.67;66;54;A;0
+68;0;GIPSI;MarchÃ©s financiers;France;48;0.96;11.17;62;51;A;0
+71;1;GIPSI;MarchÃ©s financiers;France;48;1.42;10.79;43;69;A;32013.93
+149;1;GIPSI;MarchÃ©s financiers;Europe autres pays;41;0.31;9.57;33;51;A;16106.31
+151;0;GIPSI;MarchÃ©s financiers;France;48;1.53;8.74;64;60;A;0
+181;0;GIPSI;MarchÃ©s financiers;Europe autres pays;41;1.56;8.22;42;38;A;0
+210;1;GIPSI;MarchÃ©s financiers;Europe autres pays;41;1.07;8.46;52;68;A;29914.56
+241;1;GIPSI;MarchÃ©s financiers;Europe autres pays;41;0.95;8.48;62;100;A;52576
+304;0;GIPSI;MarchÃ©s financiers;Europe autres pays;41;1.6;7.93;49;68;A;0
+336;0;GIPSI;MarchÃ©s financiers;Europe autres pays;41;1.56;7.06;44;73;A;0
+356;0;GIPSI;MarchÃ©s financiers;France;48;1.09;6.81;52;69;A;0
+411;1;GIPSI;MarchÃ©s financiers;France;48;1.48;9.37;37;64;A;22188.16
+419;1;GIPSI;MarchÃ©s financiers;Europe autres pays;41;-0.56;8.01;38;69;A;21002.22
+458;1;GIPSI;MarchÃ©s financiers;France;48;0.25;9.51;38;45;A;16262.1
+548;1;GIPSI;MarchÃ©s financiers;France;48;1.21;10.62;36;63;A;24086.16
+549;0;GIPSI;MarchÃ©s financiers;France;48;1.06;10.51;53;68;A;0
+562;0;GIPSI;MarchÃ©s financiers;France;48;1.58;3.88;57;42;A;0
+578;1;GIPSI;MarchÃ©s financiers;Europe autres pays;41;0.89;7.04;48;29;A;9799.68
+621;0;GIPSI;MarchÃ©s financiers;Europe autres pays;41;1.3;7.26;49;57;A;0
+696;0;GIPSI;MarchÃ©s financiers;France;48;2.11;7.02;50;50;A;0
+726;1;GIPSI;MarchÃ©s financiers;France;48;1.1;10.56;44;67;A;31130.88
+728;1;GIPSI;MarchÃ©s financiers;Europe autres pays;41;0.57;6.37;42;59;A;15784.86
+735;0;GIPSI;MarchÃ©s financiers;Europe autres pays;41;1.88;7.43;67;45;A;0
+841;0;GIPSI;MarchÃ©s financiers;Europe autres pays;41;1.58;9.32;51;52;A;0
+842;1;GIPSI;MarchÃ©s financiers;Europe autres pays;41;0.81;8.5;34;50;A;14450
+858;1;GIPSI;MarchÃ©s financiers;France;48;0.45;5.89;56;51;A;16821.84
+859;0;GIPSI;MarchÃ©s financiers;Europe autres pays;41;1.49;8.41;47;71;A;0
+968;1;GIPSI;MarchÃ©s financiers;Europe autres pays;41;0.98;6.44;55;61;A;21606.2
+566;0;GIPSI;Secteur public autre;Europe autres pays;72;1.12;10.88;52;62;A;0
+24;0;GIPSI;Autre;France;49;1.11;6.71;56;35;A;0
+47;0;GIPSI;Autre;France;49;2.31;6.07;70;61;A;0
+54;1;GIPSI;Autre;France;49;0.46;9.8;42;49;A;20168.4
+76;1;GIPSI;Autre;France;49;0.99;6.96;55;68;A;26030.4
+130;0;GIPSI;Autre;Afrique;39;1.54;9.5;64;57;A;0
+157;1;GIPSI;Autre;AmÃ©rique;38;0.87;7.73;53;49;A;20074.81
+232;0;GIPSI;Autre;Afrique;39;1;7.82;58;52;A;0
+242;0;GIPSI;Autre;France;49;1.07;9.85;49;61;A;0
+307;1;GIPSI;Autre;AmÃ©rique;38;1.54;10.36;38;43;A;16928.24
+309;0;GIPSI;Autre;Afrique;39;1.17;13.18;62;51;A;0
+319;0;GIPSI;Autre;France;49;1.2;10.12;71;49;A;0
+370;1;GIPSI;Autre;France;49;0.82;7.67;49;64;A;24053.12
+377;0;GIPSI;Autre;France;49;1.05;6.66;53;64;A;0
+390;1;GIPSI;Autre;Afrique;39;1.33;5.43;53;71;A;20433.09
+433;1;GIPSI;Autre;AmÃ©rique;38;1.42;7.42;44;100;A;32648
+437;1;GIPSI;Autre;AmÃ©rique;38;0.48;7.16;21;61;A;9171.96
+472;0;GIPSI;Autre;Europe autres pays;69;0.81;7.61;46;68;A;0
+477;1;GIPSI;Autre;Afrique;39;0.59;9.75;59;51;A;29337.75
+520;1;GIPSI;Autre;Afrique;39;1.51;8.72;35;48;A;14649.6
+534;0;GIPSI;Autre;France;49;0.96;10.16;57;56;A;0
+574;1;GIPSI;Autre;AmÃ©rique;38;0.34;8.84;52;61;A;28040.48
+591;1;GIPSI;Autre;France;49;0.67;8.3;43;49;A;17488.1
+602;0;GIPSI;Autre;France;49;1.22;6.27;58;69;A;0
+613;1;GIPSI;Autre;France;49;-0.07;2.4;58;67;A;9326.4
+697;0;GIPSI;Autre;France;49;1.9;11.8;60;55;A;0
+704;0;GIPSI;Autre;Europe autres pays;69;1.06;6.48;51;69;A;0
+731;1;GIPSI;Autre;Afrique;39;1.06;5.51;52;65;A;18623.8
+797;0;GIPSI;Autre;France;49;2.11;9.59;45;48;A;0
+871;0;GIPSI;Autre;France;49;1.79;7.1;66;42;A;0
+913;0;GIPSI;Autre;Europe autres pays;69;1.03;8.48;56;51;A;0
+940;1;GIPSI;Autre;France;49;0.37;6.64;49;52;A;16918.72
+55;1;GIPSI;SantÃ©;France;67;0.17;7.08;57;55;A;22195.8
+622;0;GIPSI;SantÃ©;France;67;0.95;7.62;55;67;A;0
+244;0;GIPSI;SÃ©curitÃ©;Allemagne;73;1.9;6.59;53;30;A;0
+335;1;GIPSI;SÃ©curitÃ©;France;32;0.32;6.71;38;70;A;17848.6
+503;1;GIPSI;SÃ©curitÃ©;France;32;0.94;9.49;45;59;A;25195.95
+705;1;GIPSI;SÃ©curitÃ©;France;32;0.21;8.74;46;61;A;24524.44
+718;0;GIPSI;SÃ©curitÃ©;Allemagne;73;0.82;6.98;47;64;A;0
+868;0;GIPSI;SÃ©curitÃ©;Allemagne;73;0.52;5.1;51;57;A;0
+901;1;GIPSI;SÃ©curitÃ©;France;32;0.51;6.96;74;61;A;31417.44
+999;1;GIPSI;SÃ©curitÃ©;France;32;0.3;9.78;56;55;A;30122.4
+138;0;GIPSI;Communications;Espagne;66;1.02;6.08;56;73;A;0
+293;0;GIPSI;Communications;Espagne;66;0.85;8.15;50;50;A;0
+527;0;GIPSI;Communications;Espagne;66;0.99;9.99;40;57;A;0
+632;0;GIPSI;Communications;Espagne;66;1.31;10.59;49;68;A;0
+662;1;GIPSI;Communications;Espagne;66;0.55;7.76;55;65;A;27742
+822;0;GIPSI;Communications;Espagne;66;1.11;4.3;58;67;A;0
+958;0;GIPSI;Communications;Espagne;66;1.38;8.98;62;68;A;0
+27;0;LIFESI;Biens de consommation;France;46;0.81;5.96;69;63;A;0
+88;0;LIFESI;Biens de consommation;France;46;1.33;6.76;53;57;A;0
+115;1;LIFESI;Biens de consommation;France;46;1.1;5.89;46;90;A;24384.6
+216;0;LIFESI;Biens de consommation;France;46;1.32;8.07;59;61;A;0
+261;0;LIFESI;Biens de consommation;France;46;0.93;4.84;61;59;A;0
+298;0;LIFESI;Biens de consommation;France;46;0.8;9.91;65;67;A;0
+480;1;LIFESI;Biens de consommation;France;46;0.65;8.55;45;49;A;18852.75
+487;1;LIFESI;Biens de consommation;France;46;0.01;9.42;46;60;A;25999.2
+579;1;LIFESI;Biens de consommation;France;46;1.02;8.4;45;100;A;37800
+683;1;LIFESI;Biens de consommation;France;46;0.33;9.71;66;48;A;30761.28
+690;0;LIFESI;Biens de consommation;France;46;1.64;8.42;51;53;A;0
+716;1;LIFESI;Biens de consommation;France;46;0.79;5.49;43;62;A;14636.34
+725;1;LIFESI;Biens de consommation;France;46;0.7;8.36;38;67;A;21284.56
+771;1;LIFESI;Biens de consommation;France;46;0.77;7.53;53;62;A;24743.58
+996;1;LIFESI;Biens de consommation;France;46;0.71;3.97;42;72;A;12005.28
+123;1;LIFESI;SantÃ©;France;20;1.64;9.21;48;75;A;33156
+92;0;LIFESI;Agriculture;Europe autres pays;47;1.18;5.96;49;49;A;0
+112;1;LIFESI;Agriculture;Europe autres pays;47;0.99;9.03;39;65;A;22891.05
+280;0;LIFESI;Agriculture;Europe autres pays;47;0.72;10.76;62;49;A;0
+286;0;LIFESI;Agriculture;Europe autres pays;47;1.22;7.33;50;58;A;0
+305;1;LIFESI;Agriculture;Europe autres pays;47;0.84;5;27;48;A;6480
+333;1;LIFESI;Agriculture;Europe autres pays;47;0.49;5.79;45;53;A;13809.15
+371;1;LIFESI;Agriculture;Europe autres pays;47;1.08;11.32;47;65;A;34582.6
+471;1;LIFESI;Agriculture;Europe autres pays;47;0.34;11;67;43;A;31691
+476;1;LIFESI;Agriculture;France;27;0.56;6.66;44;59;A;17289.36
+676;1;LIFESI;Agriculture;Europe autres pays;47;0.76;10.32;44;69;A;31331.52
+740;1;LIFESI;Agriculture;France;27;0.34;14.01;57;60;A;47914.2
+903;0;LIFESI;Agriculture;Europe autres pays;47;1.2;2.38;54;58;A;0
+911;0;LIFESI;Agriculture;Europe autres pays;47;1.26;5.89;54;56;A;0
+949;1;LIFESI;Agriculture;Europe autres pays;47;0.24;9.27;51;59;A;27893.43
+202;0;LIFESI;Autre;Europe autres pays;64;1.26;6.82;39;70;A;0
+301;0;LIFESI;Autre;Europe autres pays;64;1.55;6.9;50;47;A;0
+349;1;LIFESI;Autre;Europe autres pays;64;0.04;7.38;41;73;A;22088.34
+384;0;LIFESI;Autre;Europe autres pays;64;1.66;7.74;44;56;A;0
+453;0;LIFESI;Autre;Europe autres pays;64;0.65;7.57;50;49;A;0
+927;1;LIFESI;Autre;Europe autres pays;64;0.05;10.2;53;60;A;32436
+956;0;LIFESI;Autre;Europe autres pays;64;0.86;6.58;59;57;A;0
+830;0;LOGSI;Recherche clinique;France;79;1.31;7.8;36;53;A;0
+980;0;LOGSI;Recherche clinique;France;79;1.19;5.05;51;79;A;0
+274;0;LOGSI;Secteur public;France;36;1.22;7.54;64;49;A;0
+323;0;LOGSI;Secteur public;France;36;0.84;5.6;68;56;A;0
+399;1;LOGSI;Secteur public;France;36;1.45;7.69;46;69;A;24408.06
+640;0;LOGSI;Secteur public;France;36;1.35;10.2;57;44;A;0
+667;1;LOGSI;Secteur public;France;36;0.82;8.51;61;76;A;39452.36
+44;1;LOGSI;MobilitÃ©;France;35;1.1;7.42;56;63;A;26177.76
+345;0;LOGSI;MobilitÃ©;France;35;1.71;10.55;46;60;A;0
+509;1;LOGSI;MobilitÃ©;France;35;0.82;6;46;60;A;16560
+596;1;LOGSI;MobilitÃ©;France;35;1.08;7.35;34;61;A;15243.9
+674;1;LOGSI;MobilitÃ©;France;35;0.44;7.72;31;58;A;13880.56
+172;1;SALSI;Banque;France;59;0.61;8.71;46;45;A;18029.7
+267;0;SALSI;Banque;France;59;0.54;9.09;69;57;A;0
+466;0;SALSI;Banque;France;59;1.01;3.44;55;50;A;0
+484;0;SALSI;Banque;France;59;1.36;5.83;55;71;A;0
+753;1;SALSI;Banque;France;59;0.92;11.89;43;68;A;34766.36
+812;0;SALSI;Banque;France;59;1.31;8.12;45;36;A;0
+967;0;SALSI;Banque;France;59;1.08;10.44;50;59;A;0
+973;1;SALSI;Banque;France;59;1.17;6.69;39;66;A;17220.06
+59;0;COMSI;Biens de consommation;France;53;1.51;6.39;65;60;C;0
+271;1;COMSI;Biens de consommation;France;53;1.24;6.62;41;60;C;16285.2
+369;1;COMSI;Biens de consommation;France;53;0.37;5.42;37;75;C;15040.5
+49;0;COMSI;Recherche clinique;France;70;1.18;10.04;52;41;C;0
+394;0;COMSI;Energie;France;34;1.35;7.21;61;47;C;0
+870;1;COMSI;Energie;France;34;0.19;7.71;33;79;C;20099.97
+66;1;COMSI;Infrastructure;France;37;0.74;11.7;47;74;C;40692.6
+109;1;FINSI;Assurance;France;31;0.56;8.06;58;60;C;28048.8
+821;1;FINSI;Assurance;France;31;1.41;12.5;48;51;C;30600
+413;0;FINSI;Biens de consommation;France;54;1.35;9.97;55;70;C;0
+33;0;FINSI;MarchÃ©s financiers;France;60;0.85;6.08;51;60;C;0
+96;0;FINSI;MarchÃ©s financiers;Europe autres pays;57;0.91;8.17;77;72;C;0
+97;0;FINSI;MarchÃ©s financiers;Europe autres pays;57;1.9;9.3;73;100;C;0
+132;0;FINSI;MarchÃ©s financiers;Europe autres pays;57;1.2;8.28;53;67;C;0
+303;0;FINSI;MarchÃ©s financiers;Europe autres pays;57;1.94;6.17;46;69;C;0
+1;0;FORSI;Banque;Afrique;45;2.11;10.29;29;66;C;0
+695;1;FORSI;Banque;Afrique;45;0.72;6.3;56;100;C;35280
+37;0;FORSI;DÃ©fense;France;51;1.36;7.35;57;63;C;0
+58;0;FORSI;DÃ©fense;France;51;1.25;10.69;57;60;C;0
+270;0;FORSI;DÃ©fense;France;51;2.31;6.01;41;51;C;0
+587;0;FORSI;DÃ©fense;France;51;1.15;9.34;55;55;C;0
+701;0;FORSI;DÃ©fense;France;51;1.81;6.76;58;69;C;0
+121;0;FORSI;Energie;France;42;1.25;4.91;68;69;C;0
+165;0;FORSI;Energie;France;42;1.77;7.38;62;47;C;0
+543;1;FORSI;Energie;France;42;0.9;3.8;49;70;C;13034
+111;0;FORSI;MarchÃ©s financiers;France;40;1.84;7.28;65;68;C;0
+35;0;GIPSI;AÃ©rien;France;56;1.31;5.92;54;67;C;0
+48;0;GIPSI;AÃ©rien;France;56;1.8;5.77;46;48;C;0
+86;0;GIPSI;AÃ©rien;France;56;2.11;8.2;33;55;C;0
+127;0;GIPSI;AÃ©rien;France;56;1.73;6.8;43;67;C;0
+126;0;GIPSI;Assurance;France;58;1.69;8.5;57;59;C;0
+360;0;GIPSI;Assurance;France;58;1.14;7.83;58;69;C;0
+424;0;GIPSI;Assurance;France;58;1.09;6.58;52;63;C;0
+470;0;GIPSI;Assurance;France;58;1.49;4.87;51;75;C;0
+22;0;GIPSI;Banque;AmÃ©rique;43;1.29;8.01;61;63;C;0
+34;1;GIPSI;Banque;France;61;0.59;6.53;49;50;C;15998.5
+38;0;GIPSI;Banque;Afrique;52;0.9;6.35;63;66;C;0
+207;0;GIPSI;Banque;AmÃ©rique;43;1.69;3.07;43;76;C;0
+284;0;GIPSI;Banque;AmÃ©rique;43;1.56;6.6;46;52;C;0
+380;1;GIPSI;Banque;AmÃ©rique;43;0.42;9;51;61;C;27999
+486;0;GIPSI;Banque;Afrique;52;1.25;10.34;58;73;C;0
+668;0;GIPSI;Banque;AmÃ©rique;43;0.88;6.38;65;43;C;0
+975;1;GIPSI;Banque;France;61;0.98;9.49;36;62;C;21181.68
+19;0;GIPSI;DÃ©fense;AmÃ©rique;50;0.96;7.68;55;63;C;0
+119;0;GIPSI;DÃ©fense;AmÃ©rique;50;0.96;6.06;65;72;C;0
+505;0;GIPSI;DÃ©fense;AmÃ©rique;50;1.29;7.44;55;60;C;0
+649;1;GIPSI;DÃ©fense;Japon;63;0.42;11;57;63;C;39501
+3;0;GIPSI;MarchÃ©s financiers;France;48;1.62;5.63;70;50;C;0
+98;0;GIPSI;MarchÃ©s financiers;France;48;1.5;5.52;69;59;C;0
+133;0;GIPSI;MarchÃ©s financiers;Europe autres pays;41;1.62;9.31;52;66;C;0
+544;1;GIPSI;MarchÃ©s financiers;Europe autres pays;41;1.04;7.91;47;52;C;19332.04
+869;1;GIPSI;MarchÃ©s financiers;Europe autres pays;41;0.54;5.73;40;75;C;17190
+51;1;GIPSI;Autre;Europe autres pays;69;0.89;7.18;38;77;C;21008.68
+145;1;GIPSI;Autre;France;49;0.79;7.53;41;67;C;20684.91
+193;0;GIPSI;Autre;France;49;0.93;7.05;55;50;C;0
+226;0;GIPSI;Autre;France;49;0.95;7.57;65;66;C;0
+237;1;GIPSI;Autre;France;49;0.29;4.62;44;64;C;13009.92
+633;1;GIPSI;Autre;Afrique;39;1.31;8.63;46;58;C;23024.84
+969;0;GIPSI;SantÃ©;France;67;1.33;9.75;53;64;C;0
+576;0;GIPSI;Communications;Espagne;66;0.67;6.89;51;49;C;0
+557;1;LIFESI;Biens de consommation;France;46;-0.15;12.51;39;50;C;24394.5
+118;0;LIFESI;Agriculture;Europe autres pays;47;1.26;11.55;55;63;C;0
+122;0;LIFESI;Agriculture;Europe autres pays;47;1.65;7.85;46;68;C;0
+128;0;LIFESI;Agriculture;Europe autres pays;47;1.34;5.54;50;50;C;0
+314;1;LIFESI;Agriculture;Europe autres pays;47;0.65;7.64;49;74;C;27702.64
+6;0;LIFESI;Autre;Europe autres pays;64;0.94;6.8;65;52;C;0
+23;0;LIFESI;Autre;Europe autres pays;64;2.31;9.36;38;66;C;0
+50;0;LIFESI;Autre;Europe autres pays;64;1.03;7.19;59;68;C;0
+110;0;LIFESI;Autre;Europe autres pays;64;1.05;10.09;57;58;C;0
+532;0;SALSI;Banque;France;59;1.08;6.18;47;50;C;0
+364;1;COMSI;Biens de consommation;France;53;0.67;5.13;45;63;D;14543.55
+454;1;COMSI;Biens de consommation;France;53;0.88;9.35;50;70;D;32725
+495;0;COMSI;Biens de consommation;France;53;1.73;8.44;39;48;D;0
+745;1;COMSI;Biens de consommation;France;53;0.82;10.36;47;75;D;36519
+863;0;COMSI;Biens de consommation;France;53;0.72;10.31;61;48;D;0
+947;0;COMSI;Biens de consommation;France;53;1.58;7.57;67;71;D;0
+171;1;COMSI;Energie;France;34;1.43;3.08;37;70;D;7977.2
+658;1;COMSI;Infrastructure;France;37;0.53;9.47;54;44;D;22500.72
+736;0;COMSI;Infrastructure;France;37;1.63;10.42;42;58;D;0
+177;0;COMSI;MarchÃ©s financiers;AmÃ©rique;28;1.68;7.35;52;53;D;0
+773;0;COMSI;MobilitÃ©;Italie;29;1.67;9.33;61;74;D;0
+300;1;COMSI;Secteur public autre;Japon;33;1.33;5.24;43;64;D;14420.48
+886;1;COMSI;Secteur public autre;Japon;33;0.53;8.93;41;37;D;13546.81
+163;1;COMSI;SÃ©curitÃ©;Inde;44;0.53;5.9;65;55;D;21092.5
+497;1;COMSI;SÃ©curitÃ©;Inde;44;-0.06;11.1;52;62;D;35786.4
+528;0;COMSI;SÃ©curitÃ©;AmÃ©rique;68;1.16;9.05;49;55;D;0
+628;0;COMSI;SÃ©curitÃ©;Inde;44;1.43;5.32;52;50;D;0
+764;1;COMSI;SÃ©curitÃ©;AmÃ©rique;68;0.28;5.88;48;77;D;21732.48
+780;0;COMSI;SÃ©curitÃ©;Inde;44;1.96;9;49;63;D;0
+928;0;COMSI;SÃ©curitÃ©;Inde;44;1.4;5.32;52;54;D;0
+322;0;FINSI;Assurance;France;31;1.51;7;54;61;D;0
+10;0;FINSI;Biens de consommation;France;54;1.32;9.69;57;63;D;0
+148;0;FINSI;Biens de consommation;France;54;1.38;7.38;44;66;D;0
+159;1;FINSI;Biens de consommation;France;54;-0.13;9.39;37;53;D;18413.79
+325;1;FINSI;Biens de consommation;France;54;1;11.8;42;46;D;22797.6
+523;1;FINSI;Biens de consommation;France;54;1.27;5.72;27;100;D;15444
+715;0;FINSI;Biens de consommation;France;54;0.43;10.31;70;62;D;0
+792;0;FINSI;Biens de consommation;France;54;1.01;6.22;50;56;D;0
+970;0;FINSI;Biens de consommation;France;54;0.97;12.57;50;66;D;0
+992;0;FINSI;Biens de consommation;France;54;0.98;7.28;57;72;D;0
+478;0;FINSI;Infrastructure;France;62;2.11;8.51;44;62;D;0
+89;0;FINSI;MarchÃ©s financiers;France;60;1.54;12.99;47;55;D;0
+296;1;FINSI;MarchÃ©s financiers;France;60;-0.05;5.28;49;60;D;15523.2
+673;0;FINSI;MarchÃ©s financiers;Europe autres pays;57;0.82;6.26;61;55;D;0
+819;0;FINSI;MarchÃ©s financiers;Europe autres pays;57;0.9;8.22;55;61;D;0
+898;0;FINSI;MarchÃ©s financiers;Europe autres pays;57;1.46;6.47;50;45;D;0
+248;1;FORSI;Banque;Afrique;45;0.29;7.31;41;62;D;18582.02
+529;0;FORSI;Banque;Afrique;45;1.58;7.2;54;61;D;0
+573;0;FORSI;Banque;Afrique;45;1.2;8.64;53;67;D;0
+330;1;FORSI;Recherche clinique;France;78;0.3;7.37;32;67;D;15801.28
+524;0;FORSI;DÃ©fense;France;51;1.82;9.63;69;75;D;0
+196;1;FORSI;Energie;France;42;1.07;9.21;45;74;D;30669.3
+234;0;FORSI;Energie;France;42;1.48;8.78;53;58;D;0
+598;1;FORSI;Energie;France;42;1.11;8.46;39;40;D;13197.6
+865;0;FORSI;Energie;France;42;1.74;5.79;37;51;D;0
+910;1;FORSI;Energie;France;42;0.52;8.9;61;67;D;36374.3
+103;1;FORSI;MarchÃ©s financiers;France;40;0.16;8.22;49;38;D;15305.64
+108;1;FORSI;MarchÃ©s financiers;France;40;0.76;6.85;47;47;D;15131.65
+410;1;FORSI;MarchÃ©s financiers;France;40;0.73;9.37;59;60;D;33169.8
+717;1;FORSI;MarchÃ©s financiers;France;40;1.2;7.69;49;100;D;37681
+727;0;FORSI;MarchÃ©s financiers;France;40;1.11;9.65;64;38;D;0
+890;0;FORSI;MarchÃ©s financiers;France;40;1.39;9.84;53;26;D;0
+179;0;GIPSI;AÃ©rien;France;56;0.98;9.88;70;71;D;0
+603;1;GIPSI;AÃ©rien;France;56;0.71;10.89;52;55;D;31145.4
+687;1;GIPSI;AÃ©rien;France;56;1.29;6.44;33;54;D;11476.08
+722;0;GIPSI;AÃ©rien;France;56;1.71;11.43;65;54;D;0
+852;0;GIPSI;AÃ©rien;France;56;1.09;7.14;54;58;D;0
+245;1;GIPSI;Assurance;France;58;0.13;9.65;56;62;D;33504.8
+584;1;GIPSI;Assurance;France;58;0.62;10.28;40;55;D;22616
+595;1;GIPSI;Assurance;France;58;0.44;9.15;35;46;D;14731.5
+617;0;GIPSI;Assurance;France;58;1.74;5.94;42;57;D;0
+18;0;GIPSI;Banque;AmÃ©rique;43;1.07;4.16;61;63;D;0
+90;1;GIPSI;Banque;Afrique;52;0.3;8.96;44;49;D;19317.76
+101;0;GIPSI;Banque;France;61;2.11;7.52;39;65;D;0
+102;0;GIPSI;Banque;AmÃ©rique;43;1.22;9.06;51;50;D;0
+311;0;GIPSI;Banque;Allemagne;65;0.79;7.55;67;66;D;0
+354;1;GIPSI;Banque;Afrique;52;0.59;8.07;57;63;D;28979.37
+406;1;GIPSI;Banque;AmÃ©rique;43;1.01;9.4;46;69;D;29835.6
+627;1;GIPSI;Banque;Afrique;52;0.75;11.11;46;60;D;30663.6
+686;1;GIPSI;Banque;AmÃ©rique;43;0.95;7.17;45;56;D;18068.4
+691;0;GIPSI;Banque;AmÃ©rique;43;1.39;10.33;50;54;D;0
+730;1;GIPSI;Banque;Allemagne;65;0.79;7.9;38;61;D;18312.2
+759;1;GIPSI;Banque;AmÃ©rique;43;0.36;9.5;44;49;D;20482
+838;0;GIPSI;Banque;Allemagne;65;0.84;6.89;56;75;D;0
+902;1;GIPSI;Banque;Allemagne;65;0.51;10.38;50;67;D;34773
+908;1;GIPSI;Banque;AmÃ©rique;43;0.79;10.42;50;55;D;28655
+953;0;GIPSI;Banque;France;61;1.38;12.35;50;55;D;0
+955;0;GIPSI;Banque;France;61;1.5;11.13;63;75;D;0
+978;0;GIPSI;Banque;Afrique;52;1.92;10.75;59;60;D;0
+440;0;GIPSI;DÃ©fense;AmÃ©rique;50;0.96;6.42;63;77;D;0
+512;1;GIPSI;DÃ©fense;AmÃ©rique;50;1.16;9.49;45;78;D;33309.9
+636;0;GIPSI;DÃ©fense;AmÃ©rique;50;0.97;8.22;62;54;D;0
+651;0;GIPSI;DÃ©fense;AmÃ©rique;50;1.02;10.05;59;66;D;0
+660;1;GIPSI;DÃ©fense;AmÃ©rique;50;1.1;9.27;42;63;D;24528.42
+799;1;GIPSI;DÃ©fense;AmÃ©rique;50;1.25;6.62;37;64;D;15676.16
+806;0;GIPSI;DÃ©fense;AmÃ©rique;50;1.02;7.43;51;56;D;0
+857;1;GIPSI;DÃ©fense;AmÃ©rique;50;0.83;8.79;43;59;D;22300.23
+43;1;GIPSI;Finance;France;55;0.43;7.32;38;46;D;12795.36
+154;0;GIPSI;Finance;France;55;1.08;9.6;64;59;D;0
+205;0;GIPSI;Finance;France;55;1.77;8.79;68;57;D;0
+432;1;GIPSI;Finance;France;55;0.05;10.01;48;67;D;32192.16
+474;1;GIPSI;Finance;France;55;0.48;7.54;46;68;D;23585.12
+223;0;GIPSI;MarchÃ©s financiers;France;48;1.3;9.66;50;58;D;0
+355;1;GIPSI;MarchÃ©s financiers;France;48;0.9;6.5;54;67;D;23517
+392;0;GIPSI;MarchÃ©s financiers;France;48;1.72;7.92;45;52;D;0
+488;1;GIPSI;MarchÃ©s financiers;France;48;0.26;8.14;62;51;D;25738.68
+750;0;GIPSI;MarchÃ©s financiers;Europe autres pays;41;1.31;9.45;65;55;D;0
+811;1;GIPSI;MarchÃ©s financiers;France;48;0.43;6.77;47;58;D;18455.02
+993;0;GIPSI;MarchÃ©s financiers;Europe autres pays;41;1.42;9.2;54;53;D;0
+219;1;GIPSI;Secteur public autre;Japon;24;1.24;8.73;68;72;D;42742.08
+344;0;GIPSI;Secteur public autre;Europe autres pays;72;0.66;5.51;53;62;D;0
+41;1;GIPSI;Autre;France;49;0.72;6.14;50;56;D;17192
+63;1;GIPSI;Autre;France;49;0.57;8.43;63;58;D;30803.22
+220;1;GIPSI;Autre;Afrique;39;1.9;6.92;30;65;D;13494
+368;0;GIPSI;Autre;France;49;1.82;8.32;42;52;D;0
+383;0;GIPSI;Autre;Europe autres pays;69;0.89;10.12;56;46;D;0
+421;1;GIPSI;Autre;France;49;0.73;10.32;50;75;D;38700
+464;1;GIPSI;Autre;AmÃ©rique;38;0.95;7.53;40;56;D;16867.2
+473;1;GIPSI;Autre;France;49;1;9.8;48;54;D;25401.6
+510;1;GIPSI;Autre;AmÃ©rique;38;0.42;7.94;45;50;D;17865
+637;0;GIPSI;Autre;AmÃ©rique;38;1.96;7.69;50;61;D;0
+692;0;GIPSI;Autre;France;49;1.41;9.24;44;55;D;0
+746;1;GIPSI;Autre;Europe autres pays;69;0.09;3.2;58;54;D;10022.4
+751;1;GIPSI;Autre;Afrique;39;0.86;6.1;46;50;D;14030
+772;0;GIPSI;Autre;Europe autres pays;69;0.58;10.5;72;68;D;0
+807;1;GIPSI;Autre;Afrique;39;1.12;10.98;42;59;D;27208.44
+817;0;GIPSI;Autre;Europe autres pays;69;0.91;10.82;58;54;D;0
+883;1;GIPSI;Autre;AmÃ©rique;38;0.37;8.24;56;68;D;31377.92
+935;1;GIPSI;Autre;AmÃ©rique;38;0.4;7.61;60;44;D;20090.4
+943;1;GIPSI;Autre;AmÃ©rique;38;1.2;11.6;47;72;D;39254.4
+9;0;GIPSI;SantÃ©;France;67;1.3;6.53;46;56;D;0
+997;0;GIPSI;SantÃ©;France;67;1.43;9.31;33;65;D;0
+12;0;GIPSI;Communications;Espagne;66;0.9;11.45;58;50;D;0
+273;0;LIFESI;Biens de consommation;France;46;1.41;3.18;64;64;D;0
+282;1;LIFESI;Biens de consommation;France;46;1;8.77;54;78;D;36939.24
+675;1;LIFESI;Biens de consommation;France;46;0.92;11.59;43;45;D;22426.65
+897;1;LIFESI;Biens de consommation;France;46;1.22;12.65;34;70;D;30107
+942;1;LIFESI;Biens de consommation;France;46;1.07;9.05;47;54;D;22968.9
+180;0;LIFESI;Agriculture;Europe autres pays;47;1.36;6.33;52;51;D;0
+465;1;LIFESI;Agriculture;Europe autres pays;47;1.09;10.25;39;51;D;20387.25
+845;0;LIFESI;Agriculture;Europe autres pays;47;0.93;8.14;68;56;D;0
+42;1;LIFESI;Autre;Europe autres pays;64;0;9.32;45;56;D;23486.4
+555;0;LIFESI;Autre;Europe autres pays;64;1.51;6.24;49;43;D;0
+641;0;LIFESI;Autre;Europe autres pays;64;1.67;8.33;52;54;D;0
+985;0;LIFESI;Autre;Europe autres pays;64;1.55;8.49;37;38;D;0
+363;1;LOGSI;Secteur public;France;36;0.34;6.36;64;66;D;26864.64
+435;1;LOGSI;Secteur public;France;36;0.88;9.39;52;69;D;33691.32
+253;1;LOGSI;MobilitÃ©;France;35;0.75;7.05;47;78;D;25845.3
+546;1;LOGSI;MobilitÃ©;France;35;0.61;9.24;34;48;D;15079.68
+878;1;LOGSI;MobilitÃ©;France;35;0.59;7.17;58;54;D;22456.44
+569;0;SALSI;Banque;France;59;1.9;7.05;40;100;D;0
+853;1;SALSI;Banque;France;59;0.38;9.04;48;52;D;22563.84
+80;0;COMSI;Assurance;France;75;0.76;4.89;40;58;B;0
+75;1;COMSI;Biens de consommation;France;53;0.81;9.31;33;70;B;21506.1
+187;1;COMSI;Biens de consommation;France;53;0.17;3.09;38;56;B;6575.52
+200;1;COMSI;Biens de consommation;France;53;0.62;10.44;41;100;B;42804
+317;1;COMSI;Biens de consommation;France;53;0.56;7.81;24;70;B;13120.8
+611;1;COMSI;Biens de consommation;France;53;0.85;11.27;35;70;B;27611.5
+681;0;COMSI;Biens de consommation;France;53;0.99;8.16;61;42;B;0
+829;0;COMSI;Biens de consommation;France;53;0.62;8.73;58;56;B;0
+873;1;COMSI;Biens de consommation;France;53;0.97;6.79;46;59;B;18428.06
+896;1;COMSI;Biens de consommation;France;53;0.78;7.84;35;75;B;20580
+917;0;COMSI;Biens de consommation;France;53;0.98;9.56;62;62;B;0
+937;1;COMSI;Biens de consommation;France;53;0.06;10.91;49;66;B;35282.94
+670;1;COMSI;DÃ©fense;AmÃ©rique;22;1.41;4.61;49;100;B;22589
+144;0;COMSI;Energie;France;34;1.58;9.89;45;56;B;0
+146;1;COMSI;Energie;France;34;1.2;9.37;58;68;B;36955.28
+225;1;COMSI;Energie;France;34;-0.06;10.05;36;48;B;17366.4
+257;0;COMSI;Energie;France;34;1.26;8.8;56;56;B;0
+914;0;COMSI;Energie;France;34;1.67;6.27;45;58;B;0
+960;0;COMSI;Energie;France;34;2.31;7.17;57;58;B;0
+964;1;COMSI;Energie;France;34;0.1;9.19;67;61;B;37559.53
+974;1;COMSI;Energie;France;34;0.95;8.82;66;70;B;40748.4
+173;1;COMSI;Infrastructure;France;37;1.11;8.22;46;48;B;18149.76
+521;1;COMSI;Infrastructure;France;37;-0.06;6.19;47;58;B;16873.94
+606;0;COMSI;Infrastructure;France;37;1.86;8.25;55;46;B;0
+689;1;COMSI;Infrastructure;France;37;1.54;8.2;35;63;B;18081
+447;0;COMSI;MarchÃ©s financiers;France;71;0.96;7.82;46;44;B;0
+448;0;COMSI;MarchÃ©s financiers;France;71;0.89;7.68;42;69;B;0
+131;1;COMSI;MobilitÃ©;Italie;29;1.39;6.88;34;57;B;13333.44
+962;1;COMSI;MobilitÃ©;Italie;29;0.23;6.87;45;61;B;18858.15
+249;1;COMSI;Secteur public autre;Japon;33;0.57;8.96;45;57;B;22982.4
+262;1;COMSI;Secteur public autre;Japon;33;0.89;9.77;40;65;B;25402
+468;1;COMSI;Secteur public autre;Japon;33;0.78;10.71;42;100;B;44982
+60;1;COMSI;SÃ©curitÃ©;AmÃ©rique;68;-0.45;7.56;57;47;B;20253.24
+79;1;COMSI;SÃ©curitÃ©;Inde;44;1.2;9.39;37;67;B;23277.81
+85;1;COMSI;SÃ©curitÃ©;Inde;44;1.14;10.19;36;72;B;26412.48
+120;0;COMSI;SÃ©curitÃ©;Inde;44;1.49;5.67;59;48;B;0
+178;1;COMSI;SÃ©curitÃ©;Inde;44;0.59;8.33;26;70;B;15160.6
+211;1;COMSI;SÃ©curitÃ©;Inde;44;0.78;7.95;53;85;B;35814.75
+285;1;COMSI;SÃ©curitÃ©;AmÃ©rique;68;0.78;8.49;44;100;B;37356
+315;0;COMSI;SÃ©curitÃ©;AmÃ©rique;68;1.36;5.51;38;52;B;0
+334;0;COMSI;SÃ©curitÃ©;France;76;0.83;6.9;50;56;B;0
+372;0;COMSI;SÃ©curitÃ©;AmÃ©rique;68;1.11;10.94;37;63;B;0
+457;1;COMSI;SÃ©curitÃ©;Inde;44;0.71;11.01;60;73;B;48223.8
+525;1;COMSI;SÃ©curitÃ©;Inde;44;1.09;6.5;49;62;B;19747
+567;0;COMSI;SÃ©curitÃ©;France;76;0.62;10.94;50;61;B;0
+570;0;COMSI;SÃ©curitÃ©;Inde;44;1.28;10.81;56;62;B;0
+656;1;COMSI;SÃ©curitÃ©;Inde;44;0.17;7.2;72;57;B;29548.8
+680;0;COMSI;SÃ©curitÃ©;Inde;44;1.26;10.7;56;59;B;0
+709;0;COMSI;SÃ©curitÃ©;Inde;44;1.43;7.46;47;65;B;0
+815;1;COMSI;SÃ©curitÃ©;AmÃ©rique;68;0.68;10.36;31;65;B;20875.4
+872;0;COMSI;SÃ©curitÃ©;Inde;44;1.22;7.79;56;61;B;0
+991;0;COMSI;SÃ©curitÃ©;Inde;44;2.31;4.61;51;63;B;0
+702;1;FINSI;Assurance;France;31;0.62;5.97;68;56;B;22733.76
+816;1;FINSI;Assurance;France;31;0.46;6.14;57;65;B;22748.7
+7;0;FINSI;Biens de consommation;France;54;1.32;5.25;50;68;B;0
+8;0;FINSI;Biens de consommation;France;54;1.09;7.3;74;48;B;0
+39;1;FINSI;Biens de consommation;France;54;0.72;8.12;42;69;B;23531.76
+82;1;FINSI;Biens de consommation;France;54;0.59;8.31;51;66;B;27971.46
+87;0;FINSI;Biens de consommation;France;54;1.41;4.49;57;50;B;0
+124;0;FINSI;Biens de consommation;France;54;1.18;6.15;50;71;B;0
+134;0;FINSI;Biens de consommation;France;54;1;8.35;51;52;B;0
+192;1;FINSI;Biens de consommation;France;54;0.65;5.76;55;66;B;20908.8
+263;0;FINSI;Biens de consommation;France;54;1.02;11.83;55;52;B;0
+402;0;FINSI;Biens de consommation;France;54;1.35;7.98;56;100;B;0
+449;0;FINSI;Biens de consommation;France;54;1.44;6.76;61;59;B;0
+519;0;FINSI;Biens de consommation;France;54;1.64;5.49;53;63;B;0
+550;1;FINSI;Biens de consommation;France;54;1.53;6.04;32;73;B;14109.44
+581;0;FINSI;Biens de consommation;France;54;1.71;9.41;44;58;B;0
+646;0;FINSI;Biens de consommation;France;54;0.62;8.61;61;67;B;0
+698;0;FINSI;Biens de consommation;France;54;1.58;4.94;56;60;B;0
+742;0;FINSI;Biens de consommation;France;54;1.71;5.16;62;53;B;0
+176;0;FINSI;Infrastructure;France;62;1.62;7.76;56;63;B;0
+239;0;FINSI;Infrastructure;France;62;1.54;8.71;53;70;B;0
+398;0;FINSI;Infrastructure;France;62;1.56;9.39;53;63;B;0
+685;0;FINSI;Infrastructure;France;62;0.78;9.64;58;67;B;0
+779;0;FINSI;Infrastructure;France;62;1.74;8.1;60;63;B;0
+832;0;FINSI;Infrastructure;France;62;0.78;8.07;56;66;B;0
+966;0;FINSI;Infrastructure;France;62;1.24;8.79;62;64;B;0
+61;0;FINSI;MarchÃ©s financiers;France;60;1.07;4.97;61;57;B;0
+169;0;FINSI;MarchÃ©s financiers;Europe autres pays;57;0.71;9.55;73;68;B;0
+231;0;FINSI;MarchÃ©s financiers;Europe autres pays;57;1.12;7.58;54;60;B;0
+404;1;FINSI;MarchÃ©s financiers;Europe autres pays;57;0.54;8.36;47;54;B;21217.68
+412;0;FINSI;MarchÃ©s financiers;Europe autres pays;57;0.86;5.94;62;56;B;0
+423;0;FINSI;MarchÃ©s financiers;Europe autres pays;57;1.18;10.07;40;62;B;0
+427;0;FINSI;MarchÃ©s financiers;Europe autres pays;57;1.38;6.11;35;51;B;0
+456;1;FINSI;MarchÃ©s financiers;Europe autres pays;57;0.51;8.34;32;40;B;10675.2
+483;1;FINSI;MarchÃ©s financiers;France;60;0.55;7.35;40;59;B;17346
+506;1;FINSI;MarchÃ©s financiers;France;60;0.12;11.07;43;42;B;19992.42
+535;0;FINSI;MarchÃ©s financiers;France;60;0.79;6.09;57;59;B;0
+564;0;FINSI;MarchÃ©s financiers;Europe autres pays;57;1.13;7.06;78;71;B;0
+565;0;FINSI;MarchÃ©s financiers;France;60;0.49;8.46;66;78;B;0
+630;0;FINSI;MarchÃ©s financiers;Europe autres pays;57;1.56;6.91;42;56;B;0
+655;0;FINSI;MarchÃ©s financiers;Europe autres pays;57;2.11;10.97;45;49;B;0
+657;1;FINSI;MarchÃ©s financiers;Europe autres pays;57;0.27;5.84;62;50;B;18104
+677;0;FINSI;MarchÃ©s financiers;France;60;1.45;4.22;43;66;B;0
+729;1;FINSI;MarchÃ©s financiers;Europe autres pays;57;1.15;7.21;36;55;B;14275.8
+762;1;FINSI;MarchÃ©s financiers;Europe autres pays;57;0.55;12.23;46;66;B;37130.28
+862;1;FINSI;MarchÃ©s financiers;Europe autres pays;57;0.26;10.56;57;73;B;43940.16
+874;0;FINSI;MarchÃ©s financiers;France;60;1.57;8.77;46;68;B;0
+905;0;FINSI;MarchÃ©s financiers;Europe autres pays;57;1.88;5.7;56;72;B;0
+907;1;FINSI;MarchÃ©s financiers;Europe autres pays;57;0.82;6.04;51;59;B;18174.36
+909;0;FINSI;MarchÃ©s financiers;Europe autres pays;57;1.37;7.91;42;56;B;0
+919;1;FINSI;MarchÃ©s financiers;Europe autres pays;57;0.48;6.9;50;58;B;20010
+920;1;FINSI;MarchÃ©s financiers;Europe autres pays;57;0.9;8.07;39;51;B;16051.23
+926;1;FINSI;MarchÃ©s financiers;Europe autres pays;57;0.58;7.69;34;46;B;12027.16
+934;0;FINSI;MarchÃ©s financiers;France;60;1.22;7.22;43;57;B;0
+963;0;FINSI;MarchÃ©s financiers;France;60;0.94;8.02;61;64;B;0
+776;1;FINSI;Autre;Europe autres pays;18;1.76;6.95;38;51;B;13469.1
+213;0;FORSI;Assurance;France;74;0.88;6.44;55;32;B;0
+158;0;FORSI;Banque;Afrique;45;0.78;6.2;60;52;B;0
+188;0;FORSI;Banque;Afrique;45;0.91;5.59;63;61;B;0
+264;0;FORSI;Banque;Afrique;45;1.46;6.02;38;39;B;0
+290;1;FORSI;Banque;Afrique;45;0.87;7.6;57;71;B;30757.2
+294;1;FORSI;Banque;Afrique;45;1.11;4.17;54;67;B;15087.06
+357;1;FORSI;Banque;Afrique;45;0.66;7.33;44;54;B;17416.08
+381;1;FORSI;Banque;Afrique;45;1.39;9.43;36;64;B;21726.72
+387;0;FORSI;Banque;Afrique;45;2.46;4.02;49;51;B;0
+463;1;FORSI;Banque;Afrique;45;0.59;6.74;68;71;B;32540.72
+496;1;FORSI;Banque;Afrique;45;0.95;8.5;45;67;B;25627.5
+754;1;FORSI;Banque;Afrique;45;1.39;6.77;31;50;B;10493.5
+760;0;FORSI;Banque;Afrique;45;0.86;7.56;59;48;B;0
+794;1;FORSI;Banque;Afrique;45;0.74;8.2;31;66;B;16777.2
+894;0;FORSI;Banque;Afrique;45;1.22;10.29;60;57;B;0
+959;0;FORSI;Banque;Afrique;45;1.18;6.41;50;57;B;0
+1000;1;FORSI;Banque;Afrique;45;0.63;5.97;62;45;B;16656.3
+73;0;FORSI;DÃ©fense;France;51;1.79;7.92;43;44;B;0
+81;0;FORSI;DÃ©fense;France;51;1.15;10.48;64;47;B;0
+215;1;FORSI;DÃ©fense;France;51;0.6;10.31;44;64;B;29032.96
+233;1;FORSI;DÃ©fense;France;51;0.53;5.95;51;57;B;17296.65
+332;1;FORSI;DÃ©fense;France;51;0.69;7.42;53;55;B;21629.3
+373;1;FORSI;DÃ©fense;France;51;1.01;6.66;35;51;B;11888.1
+434;1;FORSI;DÃ©fense;France;51;0.42;7.25;23;67;B;11172.25
+443;0;FORSI;DÃ©fense;France;51;1.58;5.62;62;79;B;0
+599;0;FORSI;DÃ©fense;France;51;0.65;9.01;73;48;B;0
+648;0;FORSI;DÃ©fense;France;51;1.72;8;50;66;B;0
+738;1;FORSI;DÃ©fense;France;51;0.52;7.27;66;60;B;28789.2
+778;1;FORSI;DÃ©fense;France;51;0.45;8.76;55;37;B;17826.6
+277;0;FORSI;Energie;France;42;1.52;6.32;44;43;B;0
+339;1;FORSI;Energie;France;42;0.76;8.37;45;60;B;22599
+491;1;FORSI;Energie;France;42;0.35;8.33;46;64;B;24523.52
+501;1;FORSI;Energie;France;42;0.88;5.55;50;59;B;16372.5
+556;0;FORSI;Energie;France;42;1.56;8.14;66;54;B;0
+607;0;FORSI;Energie;France;42;1.11;11.09;52;57;B;0
+612;1;FORSI;Energie;France;42;0.89;9.89;37;67;B;24517.31
+713;1;FORSI;Energie;France;42;0.87;10.91;52;57;B;32337.24
+789;1;FORSI;Energie;France;42;0.62;5.14;44;63;B;14248.08
+828;1;FORSI;Energie;France;42;1.2;9.13;46;69;B;28978.62
+835;0;FORSI;Energie;France;42;0.75;9.05;63;47;B;0
+836;1;FORSI;Energie;France;42;0.83;7.64;43;56;B;18397.12
+892;1;FORSI;Energie;France;42;1.05;6.96;47;61;B;19954.32
+26;1;FORSI;MarchÃ©s financiers;France;40;0.58;6.82;40;55;B;15004
+93;0;FORSI;MarchÃ©s financiers;France;40;0.87;7.87;63;52;B;0
+295;0;FORSI;MarchÃ©s financiers;France;40;1.63;10.82;44;55;B;0
+395;1;FORSI;MarchÃ©s financiers;France;40;0.03;8.45;45;64;B;24336
+537;1;FORSI;MarchÃ©s financiers;France;40;1.19;8.48;30;74;B;18825.6
+610;1;FORSI;MarchÃ©s financiers;France;40;0.65;7.42;43;57;B;18186.42
+684;1;FORSI;MarchÃ©s financiers;France;40;1.33;8.79;49;100;B;43071
+693;0;FORSI;MarchÃ©s financiers;France;40;1.44;9.6;47;49;B;0
+808;1;FORSI;MarchÃ©s financiers;France;40;0.6;7.67;57;56;B;24482.64
+444;0;GIPSI;Agriculture;Europe autres pays;26;1.61;7.45;54;67;B;0
+78;0;GIPSI;AÃ©rien;France;56;0.98;9.03;58;35;B;0
+143;1;GIPSI;AÃ©rien;France;56;-0.08;5.39;35;64;B;12073.6
+297;1;GIPSI;AÃ©rien;France;56;0.32;6.44;62;58;B;23158.24
+341;0;GIPSI;AÃ©rien;France;56;1.26;10.78;49;60;B;0
+467;0;GIPSI;AÃ©rien;France;56;1.09;8.33;48;67;B;0
+493;0;GIPSI;AÃ©rien;France;56;1.56;8.02;39;71;B;0
+517;0;GIPSI;AÃ©rien;France;56;1.01;5.71;58;41;B;0
+589;0;GIPSI;AÃ©rien;France;56;1.52;8.28;57;49;B;0
+626;0;GIPSI;AÃ©rien;France;56;0.8;5.95;68;63;B;0
+743;0;GIPSI;AÃ©rien;France;56;1.52;10.16;46;64;B;0
+938;0;GIPSI;AÃ©rien;France;56;2.31;11.07;55;62;B;0
+987;0;GIPSI;AÃ©rien;France;56;1.19;7.7;66;73;B;0
+185;0;GIPSI;Assurance;France;58;1.36;6.63;46;56;B;0
+451;0;GIPSI;Assurance;France;58;1.79;8.03;45;50;B;0
+572;1;GIPSI;Assurance;France;58;0.09;9.27;61;53;B;29969.91
+625;0;GIPSI;Assurance;France;58;0.56;7.67;64;69;B;0
+739;1;GIPSI;Assurance;France;58;0.48;9.15;37;58;B;19635.9
+849;0;GIPSI;Assurance;France;58;1.54;6.44;58;65;B;0
+877;0;GIPSI;Assurance;France;58;1.72;10.49;55;47;B;0
+912;0;GIPSI;Assurance;France;58;1.22;7.97;57;100;B;0
+20;1;GIPSI;Banque;AmÃ©rique;43;0.7;10.8;42;60;B;27216
+62;0;GIPSI;Banque;Afrique;52;1.48;10.09;42;65;B;0
+100;0;GIPSI;Banque;France;61;1.2;7.19;49;63;B;0
+140;0;GIPSI;Banque;France;61;1.39;6.21;54;68;B;0
+236;0;GIPSI;Banque;AmÃ©rique;43;2.31;9.19;63;69;B;0
+240;0;GIPSI;Banque;AmÃ©rique;43;1.74;4.35;42;44;B;0
+258;0;GIPSI;Banque;Afrique;52;1.24;6.9;49;68;B;0
+346;1;GIPSI;Banque;Afrique;52;1.47;7.69;19;73;B;10666.03
+391;0;GIPSI;Banque;AmÃ©rique;43;1.58;9.83;45;57;B;0
+409;0;GIPSI;Banque;Allemagne;65;1.1;7.43;54;100;B;0
+442;1;GIPSI;Banque;Afrique;52;1.22;8.43;56;100;B;47208
+460;1;GIPSI;Banque;AmÃ©rique;43;0.99;8.73;47;62;B;25439.22
+485;1;GIPSI;Banque;Allemagne;65;0.77;8.52;48;62;B;25355.52
+489;1;GIPSI;Banque;Allemagne;65;0.47;4.56;49;56;B;12512.64
+498;0;GIPSI;Banque;Allemagne;65;1.13;10.59;49;66;B;0
+526;1;GIPSI;Banque;Afrique;52;0.26;7.46;51;65;B;24729.9
+586;1;GIPSI;Banque;Afrique;52;0.95;8.46;47;65;B;25845.3
+614;0;GIPSI;Banque;Afrique;52;1.43;8.62;43;59;B;0
+619;0;GIPSI;Banque;Allemagne;65;0.85;7.66;52;68;B;0
+620;1;GIPSI;Banque;France;61;0.32;5.38;56;62;B;18679.36
+642;0;GIPSI;Banque;Allemagne;65;0.53;5.42;64;62;B;0
+699;0;GIPSI;Banque;Afrique;52;1.2;4.57;55;100;B;0
+741;0;GIPSI;Banque;Afrique;52;1.52;5.17;54;58;B;0
+756;1;GIPSI;Banque;Afrique;52;0.7;8.7;30;59;B;15399
+798;1;GIPSI;Banque;AmÃ©rique;43;-0.2;4.77;40;62;B;11829.6
+805;0;GIPSI;Banque;AmÃ©rique;43;1.13;10.09;57;64;B;0
+814;1;GIPSI;Banque;AmÃ©rique;43;0.61;7.2;62;59;B;26337.6
+826;0;GIPSI;Banque;Afrique;52;2.31;5.93;39;54;B;0
+827;1;GIPSI;Banque;Allemagne;65;0.23;10.99;59;61;B;39553.01
+860;0;GIPSI;Banque;Allemagne;65;1.84;8.83;65;51;B;0
+867;1;GIPSI;Banque;AmÃ©rique;43;1.22;6.65;47;64;B;20003.2
+899;1;GIPSI;Banque;AmÃ©rique;43;-0.05;9.86;51;49;B;24640.14
+939;1;GIPSI;Banque;AmÃ©rique;43;0.61;7.88;62;48;B;23450.88
+941;0;GIPSI;Banque;AmÃ©rique;43;1.2;6.05;64;60;B;0
+965;0;GIPSI;Banque;Afrique;52;1.52;5.6;56;62;B;0
+21;1;GIPSI;DÃ©fense;Europe autres pays;30;0.98;6.89;47;61;B;19753.63
+57;0;GIPSI;DÃ©fense;AmÃ©rique;50;1.51;4.09;67;78;B;0
+186;1;GIPSI;DÃ©fense;AmÃ©rique;50;1.05;5.42;53;78;B;22406.28
+189;1;GIPSI;DÃ©fense;Europe autres pays;30;0.61;8.02;47;46;B;17339.24
+247;0;GIPSI;DÃ©fense;Japon;63;1.59;8;45;46;B;0
+281;0;GIPSI;DÃ©fense;AmÃ©rique;50;1.24;5.95;79;73;B;0
+347;0;GIPSI;DÃ©fense;AmÃ©rique;50;1.19;9.39;61;51;B;0
+374;0;GIPSI;DÃ©fense;Europe autres pays;30;1.22;6.14;70;63;B;0
+379;0;GIPSI;DÃ©fense;AmÃ©rique;50;1.07;7.82;57;53;B;0
+401;1;GIPSI;DÃ©fense;Afrique;25;0.31;4.33;38;71;B;11682.34
+530;1;GIPSI;DÃ©fense;Europe autres pays;30;1.01;6.39;53;44;B;14901.48
+554;1;GIPSI;DÃ©fense;AmÃ©rique;50;1.07;7.04;36;62;B;15713.28
+624;0;GIPSI;DÃ©fense;AmÃ©rique;50;1.5;7.35;61;70;B;0
+664;0;GIPSI;DÃ©fense;Japon;63;1.14;10.42;48;58;B;0
+708;1;GIPSI;DÃ©fense;AmÃ©rique;50;0.54;10.14;49;62;B;30805.32
+818;1;GIPSI;DÃ©fense;Europe autres pays;30;1.37;10.41;50;100;B;52050
+824;1;GIPSI;DÃ©fense;AmÃ©rique;50;0.3;3.87;53;53;B;10870.83
+881;0;GIPSI;DÃ©fense;AmÃ©rique;50;0.97;5.94;56;49;B;0
+922;0;GIPSI;DÃ©fense;AmÃ©rique;50;1.33;8.4;43;50;B;0
+950;0;GIPSI;DÃ©fense;AmÃ©rique;50;0.8;8.8;56;59;B;0
+989;0;GIPSI;DÃ©fense;AmÃ©rique;50;0.99;8.49;61;45;B;0
+56;1;GIPSI;Finance;France;55;0.61;10.62;40;78;B;33134.4
+69;1;GIPSI;Finance;France;55;1.29;6.1;39;62;B;14749.8
+142;0;GIPSI;Finance;France;55;1.42;10.85;46;55;B;0
+259;0;GIPSI;Finance;France;55;1.02;9.78;59;51;B;0
+269;1;GIPSI;Finance;France;55;-0.15;7.05;53;73;B;27276.45
+291;0;GIPSI;Finance;France;55;1.33;3.67;43;68;B;0
+324;0;GIPSI;Finance;France;55;1.46;6.89;47;52;B;0
+365;1;GIPSI;Finance;France;55;-0.05;9.7;45;60;B;26190
+400;0;GIPSI;Finance;France;55;1.01;8.17;61;61;B;0
+407;0;GIPSI;Finance;France;55;1.13;12.04;69;60;B;0
+747;1;GIPSI;Finance;France;55;1.28;5.27;28;64;B;9443.84
+770;0;GIPSI;Finance;France;55;1.21;8.3;51;76;B;0
+801;1;GIPSI;Finance;France;55;1.38;9.77;25;69;B;16853.25
+954;0;GIPSI;Finance;France;55;0.76;9.07;64;59;B;0
+988;1;GIPSI;Finance;France;55;0.2;10.63;60;65;B;41457
+16;1;GIPSI;MarchÃ©s financiers;Europe autres pays;41;0.34;7.88;44;69;B;23923.68
+32;0;GIPSI;MarchÃ©s financiers;France;48;1.29;8.73;49;60;B;0
+91;1;GIPSI;MarchÃ©s financiers;Europe autres pays;41;1.63;9.61;35;49;B;16481.15
+116;1;GIPSI;MarchÃ©s financiers;France;48;0.31;5.17;41;70;B;14837.9
+150;1;GIPSI;MarchÃ©s financiers;France;48;1.01;10.42;64;100;B;66688
+206;1;GIPSI;MarchÃ©s financiers;Europe autres pays;41;0.5;8.03;62;77;B;38335.22
+288;1;GIPSI;MarchÃ©s financiers;France;48;0.32;9.27;34;58;B;18280.44
+292;1;GIPSI;MarchÃ©s financiers;France;48;0.89;6.48;47;61;B;18578.16
+302;1;GIPSI;MarchÃ©s financiers;France;48;1.22;8.43;43;60;B;21749.4
+338;0;GIPSI;MarchÃ©s financiers;Europe autres pays;41;1.34;7.16;55;69;B;0
+350;0;GIPSI;MarchÃ©s financiers;France;48;1.5;10.53;56;63;B;0
+393;1;GIPSI;MarchÃ©s financiers;France;48;1.01;9.35;44;72;B;29620.8
+479;1;GIPSI;MarchÃ©s financiers;France;48;0.83;4.31;40;78;B;13447.2
+481;0;GIPSI;MarchÃ©s financiers;Europe autres pays;41;1.84;8.98;60;54;B;0
+482;0;GIPSI;MarchÃ©s financiers;Europe autres pays;41;2.6;10.5;58;64;B;0
+597;0;GIPSI;MarchÃ©s financiers;France;48;1.13;7.63;51;61;B;0
+644;1;GIPSI;MarchÃ©s financiers;France;48;0.06;5.16;46;100;B;23736
+652;0;GIPSI;MarchÃ©s financiers;Europe autres pays;41;1.13;5.63;52;56;B;0
+659;0;GIPSI;MarchÃ©s financiers;France;48;1.58;7.17;47;64;B;0
+744;1;GIPSI;MarchÃ©s financiers;France;48;1.11;7.35;42;56;B;17287.2
+782;1;GIPSI;MarchÃ©s financiers;Europe autres pays;41;0.96;7.89;27;59;B;12568.77
+783;1;GIPSI;MarchÃ©s financiers;France;48;0.4;6.74;56;56;B;21136.64
+788;0;GIPSI;MarchÃ©s financiers;Europe autres pays;41;1.07;11.02;58;57;B;0
+790;0;GIPSI;MarchÃ©s financiers;France;48;1.28;9.12;49;54;B;0
+793;1;GIPSI;MarchÃ©s financiers;Europe autres pays;41;1.09;6.84;55;74;B;27838.8
+802;1;GIPSI;MarchÃ©s financiers;France;48;-0.16;5.76;58;59;B;19710.72
+803;1;GIPSI;MarchÃ©s financiers;France;48;1.17;8.74;46;56;B;22514.24
+823;1;GIPSI;MarchÃ©s financiers;Europe autres pays;41;1.29;7.7;43;61;B;20197.1
+915;0;GIPSI;MarchÃ©s financiers;France;48;1.39;6.77;56;39;B;0
+957;0;GIPSI;MarchÃ©s financiers;France;48;0.77;9.15;56;42;B;0
+5;1;GIPSI;Autre;France;49;1.46;10.6;32;54;B;18316.8
+15;0;GIPSI;Autre;France;49;2.11;7.69;46;54;B;0
+31;0;GIPSI;Autre;Europe autres pays;69;1.01;6.97;45;56;B;0
+65;1;GIPSI;Autre;Afrique;39;0.6;7.48;58;73;B;31670.32
+84;1;GIPSI;Autre;France;49;0.69;7.64;52;54;B;21453.12
+117;1;GIPSI;Autre;AmÃ©rique;38;0.57;10.28;55;61;B;34489.4
+135;0;GIPSI;Autre;Afrique;39;1.33;11.24;50;63;B;0
+164;1;GIPSI;Autre;France;49;0.69;11.1;41;45;B;20479.5
+166;0;GIPSI;Autre;Europe autres pays;69;1.33;7.97;51;48;B;0
+191;0;GIPSI;Autre;France;49;1.73;10.6;57;71;B;0
+204;0;GIPSI;Autre;France;49;1.14;4.47;47;54;B;0
+266;1;GIPSI;Autre;AmÃ©rique;38;0.43;7.62;53;65;B;26250.9
+308;1;GIPSI;Autre;France;49;0.46;10.63;53;48;B;27042.72
+353;1;GIPSI;Autre;France;49;0.3;10.22;42;61;B;26183.64
+375;1;GIPSI;Autre;Afrique;39;0.86;7.33;56;60;B;24628.8
+376;0;GIPSI;Autre;AmÃ©rique;38;1.45;7.12;62;45;B;0
+378;1;GIPSI;Autre;France;49;0.69;7.73;50;61;B;23576.5
+420;0;GIPSI;Autre;France;49;0.93;8.23;59;56;B;0
+461;1;GIPSI;Autre;France;49;0.82;9.13;36;50;B;16434
+507;1;GIPSI;Autre;Europe autres pays;69;0.57;1.64;43;49;B;3455.48
+536;0;GIPSI;Autre;Europe autres pays;69;0.92;9.37;50;56;B;0
+538;1;GIPSI;Autre;Afrique;39;0.65;5.09;61;56;B;17387.44
+590;1;GIPSI;Autre;France;49;0.33;7.14;62;63;B;27888.84
+661;1;GIPSI;Autre;Afrique;39;0.69;10.5;63;67;B;44320.5
+720;0;GIPSI;Autre;France;49;1.08;10.71;54;68;B;0
+774;1;GIPSI;Autre;Europe autres pays;69;0.78;4.07;39;56;B;8888.88
+781;1;GIPSI;Autre;France;49;0.39;9.48;34;45;B;14504.4
+847;1;GIPSI;Autre;Afrique;39;0.43;7.32;56;73;B;29924.16
+875;0;GIPSI;Autre;Afrique;39;2.11;8.13;61;73;B;0
+893;1;GIPSI;Autre;Afrique;39;0.79;6.51;52;66;B;22342.32
+952;1;GIPSI;Autre;AmÃ©rique;38;1.26;6.75;26;69;B;12109.5
+976;1;GIPSI;Autre;AmÃ©rique;38;0.63;3.74;49;63;B;11545.38
+217;1;GIPSI;SÃ©curitÃ©;France;32;0.72;11.06;40;50;B;22120
+358;1;GIPSI;SÃ©curitÃ©;France;32;1.48;6.48;46;61;B;18182.88
+462;1;GIPSI;SÃ©curitÃ©;France;32;0.85;8.26;61;56;B;28216.16
+514;1;GIPSI;SÃ©curitÃ©;France;32;0.27;7.96;55;75;B;32835
+575;1;GIPSI;SÃ©curitÃ©;France;32;0.5;9.34;34;70;B;22229.2
+763;0;GIPSI;SÃ©curitÃ©;Allemagne;73;1.03;12.59;67;59;B;0
+864;1;GIPSI;SÃ©curitÃ©;France;32;0.8;8.21;60;47;B;23152.2
+502;0;GIPSI;Communications;Espagne;66;0.95;7.46;38;57;B;0
+889;0;GIPSI;Communications;Espagne;66;1.84;6.62;51;63;B;0
+924;0;GIPSI;Communications;Espagne;66;0.52;7.27;65;47;B;0
+175;1;LIFESI;Biens de consommation;France;46;0.68;10.22;58;66;B;39122.16
+310;1;LIFESI;Biens de consommation;France;46;0.92;9.31;46;59;B;25267.34
+351;0;LIFESI;Biens de consommation;France;46;1.04;9.29;57;76;B;0
+405;1;LIFESI;Biens de consommation;France;46;1.31;6.79;36;51;B;12466.44
+418;1;LIFESI;Biens de consommation;France;46;1.06;10;41;53;B;21730
+425;0;LIFESI;Biens de consommation;France;46;1.54;8.6;43;57;B;0
+492;0;LIFESI;Biens de consommation;France;46;1.26;4.56;58;56;B;0
+539;0;LIFESI;Biens de consommation;France;46;1.26;7.22;69;67;B;0
+541;1;LIFESI;Biens de consommation;France;46;0.66;10.66;36;47;B;18036.72
+561;0;LIFESI;Biens de consommation;France;46;1.33;3.38;56;66;B;0
+568;1;LIFESI;Biens de consommation;France;46;1.05;11.2;45;56;B;28224
+631;0;LIFESI;Biens de consommation;France;46;1.28;8.06;55;52;B;0
+682;1;LIFESI;Biens de consommation;France;46;0.68;9.93;47;66;B;30802.86
+861;0;LIFESI;Biens de consommation;France;46;1.46;13.15;47;61;B;0
+880;1;LIFESI;Biens de consommation;France;46;0.95;10.73;36;62;B;23949.36
+925;0;LIFESI;Biens de consommation;France;46;1.92;8.05;60;61;B;0
+951;1;LIFESI;Biens de consommation;France;46;0.76;7.55;53;68;B;27210.2
+688;1;LIFESI;SantÃ©;France;20;0.9;8.64;46;56;B;22256.64
+11;1;LIFESI;Agriculture;Europe autres pays;47;0.36;6.74;50;65;B;21905
+46;0;LIFESI;Agriculture;Europe autres pays;47;1.45;10.58;59;57;B;0
+77;1;LIFESI;Agriculture;Europe autres pays;47;1.27;8.5;45;67;B;25627.5
+99;0;LIFESI;Agriculture;Europe autres pays;47;0.87;9.44;68;51;B;0
+162;1;LIFESI;Agriculture;Europe autres pays;47;0.33;8.49;59;66;B;33060.06
+208;0;LIFESI;Agriculture;Europe autres pays;47;1.89;4.67;59;48;B;0
+238;0;LIFESI;Agriculture;Europe autres pays;47;1.09;7.18;71;59;B;0
+256;1;LIFESI;Agriculture;Europe autres pays;47;0.97;11.62;45;77;B;40263.3
+283;0;LIFESI;Agriculture;Europe autres pays;47;1.45;5.83;50;66;B;0
+316;1;LIFESI;Agriculture;Europe autres pays;47;0.58;8.85;54;57;B;27240.3
+337;1;LIFESI;Agriculture;France;27;0.75;6.78;51;71;B;24550.38
+475;0;LIFESI;Agriculture;Europe autres pays;47;1.26;9.79;55;41;B;0
+542;0;LIFESI;Agriculture;Europe autres pays;47;1.49;7.34;58;75;B;0
+558;0;LIFESI;Agriculture;Europe autres pays;47;1.28;7.62;55;53;B;0
+605;1;LIFESI;Agriculture;Europe autres pays;47;0.77;11.07;24;35;B;9298.8
+623;0;LIFESI;Agriculture;Europe autres pays;47;1.56;9.29;50;56;B;0
+645;1;LIFESI;Agriculture;Europe autres pays;47;1.1;6.89;37;72;B;18354.96
+733;1;LIFESI;Agriculture;France;27;0.67;4.53;67;68;B;20638.68
+757;1;LIFESI;Agriculture;Europe autres pays;47;1.21;8.72;39;73;B;24825.84
+769;1;LIFESI;Agriculture;Europe autres pays;47;0.98;4.89;40;61;B;11931.6
+786;0;LIFESI;Agriculture;France;27;1.62;7.94;55;55;B;0
+844;1;LIFESI;Agriculture;France;27;1.44;6.78;40;77;B;20882.4
+851;0;LIFESI;Agriculture;France;27;1.92;7.42;63;41;B;0
+854;0;LIFESI;Agriculture;Europe autres pays;47;1.64;4.78;54;64;B;0
+944;1;LIFESI;Agriculture;Europe autres pays;47;0.58;10.25;47;69;B;33240.75
+29;1;LIFESI;MobilitÃ©;Italie;10;1.43;9.43;36;57;B;19350.36
+36;0;LIFESI;Autre;Europe autres pays;64;1.28;8.72;34;59;B;0
+299;0;LIFESI;Autre;Europe autres pays;64;0.73;6.64;59;74;B;0
+494;0;LIFESI;Autre;Europe autres pays;64;1.48;7.46;52;54;B;0
+583;1;LIFESI;Autre;Europe autres pays;64;0.05;4.58;66;70;B;21159.6
+665;0;LIFESI;Autre;Europe autres pays;64;1.56;5.79;45;62;B;0
+669;0;LIFESI;Autre;Europe autres pays;64;1.39;7.74;29;45;B;0
+767;0;LIFESI;Autre;Europe autres pays;64;1.67;8.87;36;57;B;0
+848;0;LIFESI;Autre;Europe autres pays;64;0.31;7.58;63;68;B;0
+984;0;LIFESI;Autre;Europe autres pays;64;1.43;10.93;45;48;B;0
+994;0;LIFESI;Autre;Europe autres pays;64;1.09;6.16;43;54;B;0
+106;1;LOGSI;Secteur public;France;36;0.68;10.12;61;67;B;41360.44
+265;1;LOGSI;Secteur public;France;36;1.13;10.61;37;54;B;21198.78
+426;0;LOGSI;Secteur public;France;36;1.15;8.61;53;50;B;0
+563;0;LOGSI;Secteur public;France;36;1.85;7.1;68;46;B;0
+700;1;LOGSI;Secteur public;France;36;0.09;11.02;47;67;B;34701.98
+712;1;LOGSI;Secteur public;France;36;1.05;9.01;60;73;B;39463.8
+906;0;LOGSI;Secteur public;France;36;1.77;10.41;46;68;B;0
+352;1;LOGSI;MobilitÃ©;France;35;0.99;8.31;47;52;B;20309.64
+522;1;LOGSI;MobilitÃ©;France;35;1.22;8.94;50;57;B;25479
+638;1;LOGSI;MobilitÃ©;France;35;0.9;10.55;57;67;B;40290.45
+714;1;LOGSI;MobilitÃ©;France;35;0.98;6.23;42;74;B;19362.84
+879;1;LOGSI;MobilitÃ©;France;35;0.66;7.09;65;40;B;18434
+214;0;SALSI;Banque;France;59;0.58;5.55;56;45;B;0
+218;1;SALSI;Banque;France;59;1.26;7.53;34;70;B;17921.4
+222;0;SALSI;Banque;France;59;1.83;11.03;50;85;B;0
+255;0;SALSI;Banque;France;59;0.99;5.87;68;65;B;0
+326;0;SALSI;Banque;France;59;1.58;5.29;33;53;B;0
+436;0;SALSI;Banque;France;59;1.16;10.88;46;62;B;0
+518;1;SALSI;Banque;France;59;0.74;9.6;45;54;B;23328
+654;0;SALSI;Banque;France;59;1.22;10.19;45;70;B;0
+918;0;SALSI;Banque;France;59;1.22;8.05;77;51;B;0
