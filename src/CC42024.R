@@ -1,7 +1,7 @@
 library(FactoMineR)
 
 table <- read.csv("table.data", header = FALSE, dec = ".")
-table <- table[, 2:8]
+table <- table[, -c(1, 9)] # remove Sex and Rings
 
 # QUESTÃO 1
 # 1. Combien de CP retient-on pour relater au moins 95% de la variabilité des observations? A. 3 B. 4 C. 2 # nolint
